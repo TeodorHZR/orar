@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1638265568 source:c:\users\theo\desktop\c++\aplicatie\main.cpp
+	<iostream>
+	"generare.h"
+	"afisareprofesor.h"
+
+1638299879 c:\users\theo\desktop\c++\aplicatie\generare.h
+	<algorithm>
+	<cstring>
+	<cctype>
+	"anul1.h"
+	"anul2.h"
+	"anul3.h"
+	"afisareprofesor.h"
+
+1638302418 c:\users\theo\desktop\c++\aplicatie\anul1.h
+	<cstring>
+	<iomanip>
+	<fstream>
+	"afisareprofesor.h"
+
+1638302284 c:\users\theo\desktop\c++\aplicatie\anul2.h
+	<cstring>
+	<iomanip>
+	<fstream>
+	"afisareprofesor.h"
+
+1638303184 c:\users\theo\desktop\c++\aplicatie\anul3.h
+	<cstring>
+	<iomanip>
+	<fstream>
+	"afisareprofesor.h"
+
+1638302375 c:\users\theo\desktop\c++\aplicatie\afisareprofesor.h
+	<cstring>
+
